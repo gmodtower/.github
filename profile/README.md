@@ -13,14 +13,16 @@ The lobby aspect is what makes it all work; Players connect to a central lobby s
 
 ## About this org
 I made this Github organization with the goal of providing a one-stop place for all your GMT needs, complete with updates and community additions!
+
 No longer will people have to rely on broken/outdated codebases or major leaks to get a head start on their dream of hosting a GMTower server!
 
 I hope to facilitate community involvement with the repositories so that everyone shall be allowed to enjoy GMod Tower.
 
-<br><hr><br>
+<br><hr>
 
-#### Disclaimer
+### Disclaimer
 `© 2009-2024, PixelTail Games® LLC. All Rights Reserved. All trademarks are property of their respective owners.`
+<br>
 `GMod Tower is a corporate-created modification for Garry's Mod built upon the Valve Source™ engine.`
 
 ```
